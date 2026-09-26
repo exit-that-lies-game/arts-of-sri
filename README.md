@@ -4,7 +4,7 @@ Responsive static website concept for Srivalli's mehndi and traditional wedding 
 
 ## Before accepting bookings
 
-- Replace the deliberately labelled illustration placeholders with approved portfolio and Srivalli portrait images.
+- The supplied photographs are used as visual inspiration; do not identify people or claim these are completed Arts of Sri projects without verification. Replace the illustrative portrait placeholder with an approved Srivalli portrait.
 - Confirm service prices, delivery terms and the WhatsApp number with Srivalli.
 - Add the official Instagram handle once confirmed.
 - Add genuine customer testimonials only with permission.
